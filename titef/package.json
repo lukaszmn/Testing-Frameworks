@@ -1,0 +1,14 @@
+{
+  "name": "testing-frameworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "titef test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "titef": "*"
+  }
+}
